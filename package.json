@@ -1,0 +1,8 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "Building command line tool using node.js",
+  "dependencies": {
+    "request": "~2.72.0"
+  }
+}
